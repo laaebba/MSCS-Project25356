@@ -21,6 +21,6 @@ evolving threats.
 The novelty this project lies in integrating Robotic Process Automation (RPA) with Security and Event Management (SIEM) tools like Microsoft Sentinel to enhance cybersecurity operations. By automating repetitive and time-consuming tasks, the project improves the efficiency and accuracy of Security Operations Center (SOC) workflows, allowing analysts to focus on strategic tasks and reducing response times. It showcases a comprehensive approach to workflow automation, including log extraction, data processing, and evidence gathering, while emphasizing the importance of time-based actions in incident response. Utilizing advanced tools like Microsoft Sentinel and UIPath, the project offers a scalable and adaptable solution, demonstrating significant potential to transform and optimize incident response and overall security operations.
 
 ### Flow Chart
-(https://github.com/laaebba/MSCS-Project25356/blob/main/Flowchart.png)
+![Alt text](images/Flowchart.png)
 
 ### Images
